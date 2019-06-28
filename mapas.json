@@ -793,6 +793,66 @@
          "subCategory":"Papel"
       },
       {
+         "iconMarker":"BicicletaIcon",
+         "title":"Puerta 8",
+         "latitude":-12.084277,
+         "longitude":-76.969952,
+         "category":{
+            "name":"Estacionamiento",
+            "isEnabledMultipleSelection":false,
+            "order":1
+         },
+         "subCategory":"Bicicleta"
+      },
+      {
+         "iconMarker":"BicicletaIcon",
+         "title":"Puerta 8",
+         "latitude":-12.08467,
+         "longitude":-76.96992,
+         "category":{
+            "name":"Estacionamiento",
+            "isEnabledMultipleSelection":false,
+            "order":1
+         },
+         "subCategory":"Bicicleta"
+      },
+      {
+         "iconMarker":"BicicletaIcon",
+         "title":"Estacionamiento Cruz del Sur",
+         "latitude":-12.086265,
+         "longitude":-76.9714,
+         "category":{
+            "name":"Estacionamiento",
+            "isEnabledMultipleSelection":false,
+            "order":1
+         },
+         "subCategory":"Bicicleta"
+      },
+      {
+         "iconMarker":"BicicletaIcon",
+         "title":"Edificio C",
+         "latitude":-12.084597,
+         "longitude":-76.972575,
+         "category":{
+            "name":"Estacionamiento",
+            "isEnabledMultipleSelection":false,
+            "order":1
+         },
+         "subCategory":"Bicicleta"
+      },
+      {
+         "iconMarker":"CarroIcon",
+         "title":"Edificios T (Sotano 2)",
+         "latitude":-12.085116,
+         "longitude":-76.969914,
+         "category":{
+            "name":"Estacionamiento",
+            "isEnabledMultipleSelection":false,
+            "order":1
+         },
+         "subCategory":"Estacionamientos LEV"
+      },
+      {
          "colorMarker":"#99cc00",
          "title":"Edificio G",
          "latitude":-12.084941,
